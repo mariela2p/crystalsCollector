@@ -1,0 +1,44 @@
+body{
+	background: #ECE9E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+font-weight: 300;
+
+}
+
+#header{
+	font-size: 40px;
+	padding: 30px 0 20px 0;
+	text-align: center;
+
+}
+
+#instructions{
+	font-size: 16px;
+	padding: 40px 30px 30px 40px;
+	padding-bottom: ;
+	border: 2px solid black;
+}
+
+#green, #purple, #yellow, #red{
+	width: 100px;
+	margin:15px;
+}
+
+#score{
+	padding: 15px;
+}
+
+#count{
+	padding: 15px 0 ;
+}
+
+ #green:hover, #purple:hover, #yellow:hover, #red:hover{
+ 	opacity:.5;
+ }
+
+ .col-lg-6{
+ 	padding-top: 50px;
+ }
+
