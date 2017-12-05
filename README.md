@@ -1,4 +1,4 @@
-##Crystals Collector
+Crystals Collector
 
 A simple game where the user is given a random number at the start of the game, and is presented with 4 different crystals, each crystal has a specific hidden value. By clicking on a crystal the user will add the crystal's value to his total score.
 
